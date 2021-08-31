@@ -3,13 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-
-<a href="https://medium.com/@omerates760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omerates760" height="30" width="40" /></a>
-<a href="/medium.com/feed/@omerates760/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="medium.com/feed/@omerates760/feed" height="30" width="40" /></a>
   
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omerates760)
-[![image](https://img.shields.io/badge/Medium-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://medium.com/@omerates760)
+[![image](https://img.shields.io/badge/Medium-D14836?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omerates760)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aycekirdek_2237)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerates760@gmail.com)
 </p>
