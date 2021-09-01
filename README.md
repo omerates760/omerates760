@@ -30,12 +30,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Android WorkManager Kullanımı](https://omerates760.medium.com/android-workmanager-kullan%C4%B1m%C4%B1-d427464418c7)
-- [ConstraintLayout İle Responsive Tasarım](https://omerates760.medium.com/constraintlayout-i%CC%87le-responsive-tasar%C4%B1m-2a1eb2004201)
-- [Custom View ile Emoji Çizdirmek](https://omerates760.medium.com/custom-view-ile-emoji-%C3%A7izdirmek-10f8b7a1676a)
-- [Database Inspector Nedir? Nasıl Kullanılır?](https://medium.com/gdg-istanbul/database-i%CC%87nspector-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-10d8eb8845bb)
-- [Motion Editor ile Splash Screen Yapımı](https://medium.com/hardwareandro/motion-editor-ile-splash-screen-yap%C4%B1m%C4%B1-440a77181301)
-
+- [Android WorkManager Kullanımı](https://omerates760.medium.com/android-workmanager-kullan%C4%B1m%C4%B1-d427464418c7?source=rss-ccc5a804276c------2)
+- [ConstraintLayout İle Responsive Tasarım](https://omerates760.medium.com/constraintlayout-i%CC%87le-responsive-tasar%C4%B1m-2a1eb2004201?source=rss-ccc5a804276c------2)
+- [Custom View ile Emoji Çizdirmek](https://omerates760.medium.com/custom-view-ile-emoji-%C3%A7izdirmek-10f8b7a1676a?source=rss-ccc5a804276c------2)
+- [Database İnspector Nedir? Nasıl Kullanılır?](https://medium.com/gdg-istanbul/database-i%CC%87nspector-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-10d8eb8845bb?source=rss-ccc5a804276c------2)
+- [Motion Editor ile Splash Screen Yapımı](https://medium.com/hardwareandro/motion-editor-ile-splash-screen-yap%C4%B1m%C4%B1-440a77181301?source=rss-ccc5a804276c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
