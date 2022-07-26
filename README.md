@@ -14,7 +14,7 @@
 <img width="40%" align="right" alt="android" src="https://c.tenor.com/cdu8MIU0Mq0AAAAC/android-google-happy-google.gif" />
 
 
-- 🌱 I’m currently learning **Jetpack Compose,KMM**
+- 🌱 I’m currently learning **Jetpack Compose,KMM, Multi-Module**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/omerates760](www.linkedin.com/in/omerates760)
 
